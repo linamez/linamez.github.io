@@ -1,0 +1,6 @@
+@article{mezghani2020learning,
+  title={Learning to visually navigate in photorealistic environments without any supervision},
+  author={Mezghani, Lina and Sukhbaatar, Sainbayar and Szlam, Arthur and Joulin, Armand and Bojanowski, Piotr},
+  journal={arXiv preprint arXiv:2004.04954},
+  year={2020}
+}

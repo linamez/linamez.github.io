@@ -1,0 +1,6 @@
+@article{mezghani2022walk,
+  title={Walk the Random Walk: Learning to Discover and Reach Goals Without Supervision},
+  author={Mezghani, Lina and Sukhbaatar, Sainbayar and Bojanowski, Piotr and Alahari, Karteek},
+  journal={arXiv preprint arXiv:2206.11733},
+  year={2022}
+}

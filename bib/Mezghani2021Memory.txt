@@ -1,0 +1,6 @@
+@article{mezghani2021memory,
+  title={Memory-augmented reinforcement learning for image-goal navigation},
+  author={Mezghani, Lina and Sukhbaatar, Sainbayar and Lavril, Thibaut and Maksymets, Oleksandr and Batra, Dhruv and Bojanowski, Piotr and Alahari, Karteek},
+  journal={arXiv preprint arXiv:2101.05181},
+  year={2021}
+}
