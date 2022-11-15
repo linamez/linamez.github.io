@@ -1,0 +1,6 @@
+@inproceedings{mezghani2022learning,
+  title={Learning Goal-Conditioned Policies Offline with Self-Supervised Reward Shaping},
+  author={Mezghani, Lina and Sukhbaatar, Sainbayar and Bojanowski, Piotr and Lazaric, Alessandro and Alahari, Karteek},
+  booktitle={6th Annual Conference on Robot Learning},
+  year={2022}
+}
